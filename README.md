@@ -1,11 +1,11 @@
-Olá, eu sou o Davi Henrique Vieira Lima! 👋
+### Olá, eu sou o Davi Henrique Vieira Lima! 👋
 
-🚀 Sobre mim
+### 🚀 Sobre mim
 Sou um estudante de Engenharia de Computação na Universidade de Brasília (UnB), movido pela paixão por tecnologia e inovação. Acredito que cada dia é uma nova jornada de aprendizado, e minha curiosidade insaciável me impulsiona a explorar novas soluções e enfrentar desafios.
 
 Com uma afinidade profunda pela matemática e pela engenharia e um entusiasmo contagiante pela programação, estou sempre em busca de oportunidades para contribuir em grandes projetos e gerar impacto positivo.
 
-🛠️ Tecnologias & Ferramentas
+### 🛠️ Tecnologias & Ferramentas
 Linguagens: C, C++, Python, JavaScript, TypeScript, Solidity, Motoko e VHDL
 
 Desenvolvimento Web: React, Next.js, Nest.js
@@ -16,10 +16,11 @@ Blockchain: Solidity, Motoko
 
 Ferramentas & Outras Tecnologias: Node.js, ModelSim, SDL, Git/GitHub
 
-🎯 Objetivos
+### 🎯 Objetivos
 Meu principal objetivo é utilizar a engenharia como ferramenta para impactar positivamente o mundo, desenvolvendo tecnologias que melhorem a vida das pessoas. Estou sempre aberto a colaborações e novos desafios!
 
-🌍 Onde me encontrar
+### 🌍 Onde me encontrar
+
 📫 Contato: [davihvl@gmail.com](davihvl@gmail.com)  
 🔗 [LinkedIn](www.linkedin.com/in/davihvl)  
 
