@@ -1,34 +1,36 @@
-### Olá, eu sou o Davi Henrique Vieira Lima! 👋
+### Hi, I'm Davi Henrique Vieira Lima! 👋
 
-### 🚀 Sobre mim
-Sou um estudante de Engenharia de Computação na Universidade de Brasília (UnB), movido pela paixão por tecnologia e inovação. Acredito que cada dia é uma nova jornada de aprendizado, e minha curiosidade insaciável me impulsiona a explorar novas soluções e enfrentar desafios.
+### 🚀 About Me
+I am a Computer Engineering student at the University of Brasília (UnB) currently pursuing a double degree in General Engineering at École Centrale de Nantes (ECN), driven by a passion for technology and innovation. I believe that every day is a new learning journey, and my insatiable curiosity pushes me to explore new solutions and tackle fresh challenges.
 
-Com uma afinidade profunda pela matemática e pela engenharia e um entusiasmo contagiante pela programação, estou sempre em busca de oportunidades para contribuir em grandes projetos e gerar impacto positivo.
+With a deep affinity for mathematics and engineering, paired with a contagious enthusiasm for programming, I am always seeking opportunities to contribute to large-scale projects and create a positive impact.
 
-### 🛠️ Tecnologias & Ferramentas
-Linguagens: C, C++, Python, JavaScript, TypeScript, Solidity, Motoko e VHDL
+### 🛠️ Technologies & Tools
+Languages: C, C++, Python, JavaScript, TypeScript, Solidity and Motoko
 
-Desenvolvimento Web: React, Next.js, Nest.js
+Hardware Description Languages (HDLs): VHDL, Verilog and SystemVerilog
 
-Banco de Dados: Prisma ORM
+Web Development: React, Next.js, Nest.js
+
+Database: Prisma ORM
 
 Blockchain: Solidity, Motoko
 
-Ferramentas & Outras Tecnologias: Node.js, ModelSim, SDL, Git/GitHub
+Tools & Other Technologies: Node.js, ModelSim, SDL, Git/GitHub
 
-### 🎯 Objetivos
-Meu principal objetivo é utilizar a engenharia como ferramenta para impactar positivamente o mundo, desenvolvendo tecnologias que melhorem a vida das pessoas. Estou sempre aberto a colaborações e novos desafios!
+### 🎯 Goals
+My primary goal is to use engineering as a tool to make a positive impact on the world by developing technologies that improve people's lives. I am always open to collaborations and new challenges!
 
-### 🌍 Onde me encontrar
+### 🌍 Where to find me
 
-📫 Contato: [davihvl@gmail.com](davihvl@gmail.com)  
+📫 Contact: [davihvl@gmail.com](davihvl@gmail.com)  
 🔗 [LinkedIn](www.linkedin.com/in/davihvl)  
 
 ### 📊 GitHub Stats
 ![Davi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaviHVL&show_icons=true&theme=radical)
 
-### 🚀 Linguagens mais usadas
+### 🚀 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviHVL&layout=compact&theme=radical)
 
-🚀 Sempre em busca de novos desafios e aprendizado! Vamos construir algo juntos? 😊
+🚀 Always looking for new challenges and learning opportunities. Let's build something together! 😊
 
