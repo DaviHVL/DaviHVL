@@ -6,17 +6,17 @@ I am a Computer Engineering student at the University of Brasília (UnB) current
 With a deep affinity for mathematics and engineering, paired with a contagious enthusiasm for programming, I am always seeking opportunities to contribute to large-scale projects and create a positive impact.
 
 ### 🛠️ Technologies & Tools
-Languages: C, C++, Python, JavaScript, TypeScript, Solidity and Motoko
+**Languages**: C, C++, Python, JavaScript, TypeScript, Solidity and Motoko
 
-Hardware Description Languages (HDLs): VHDL, Verilog and SystemVerilog
+**Hardware Description Languages (HDLs)**: VHDL, Verilog and SystemVerilog
 
-Web Development: React, Next.js, Nest.js
+**Web Development**: React, Next.js, Nest.js
 
-Database: Prisma ORM
+**Database**: Prisma ORM
 
-Blockchain: Solidity, Motoko
+**Blockchain**: Solidity, Motoko
 
-Tools & Other Technologies: Node.js, ModelSim, SDL, Git/GitHub
+**Tools & Other Technologies**: Node.js, ModelSim, SDL, Git/GitHub
 
 ### 🎯 Goals
 My primary goal is to use engineering as a tool to make a positive impact on the world by developing technologies that improve people's lives. I am always open to collaborations and new challenges!
